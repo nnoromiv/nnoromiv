@@ -76,11 +76,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 >**MY STATS** 🔥🧯
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nnoromiv&theme=dark&background=000000)]
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nnoromiv&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnoromiv&layout=compact&theme=vision-friendly-dark)]
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nnoromiv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
