@@ -16,7 +16,7 @@
    <a href="">
   <img src="https://img.shields.io/badge/GitHub-white?style=borderRadius&logo=github&logoColor=black" alt="GitHub Badge"/>
   </a>
-  <a href="">
+  <a href="https://www.twitter.com/nnoromiv">
   <img src="https://img.shields.io/badge/Twitter-blue?style=borderRadius&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=nnoromiv&style=color=blue&borderRadius" alt=""/>
