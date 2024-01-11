@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Nnorom Christian
 
 ---
-[![GitHub Trends SVG] ](https://api.githubtrends.io/user/svg/nnoromiv/langs?time_range=one_year&theme=classic)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nnoromiv/langs?time_range=one_year&theme=classic)]
 ---
 
 >**SOCIALS**
