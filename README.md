@@ -78,10 +78,10 @@ My work spans the whole stack: web, mobile, cloud, and ML/CV pipelines. I'm espe
 
 ### 📊 GitHub stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nnoromiv&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnoromiv&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nnoromiv&theme=tokyonight&hide_border=true" />
